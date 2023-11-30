@@ -9,6 +9,7 @@ Siga as instruções abaixo para executar o projeto em sua máquina:
 ### Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado
+- [VsCode](https://code.visualstudio.com/) 
 
 ### Instalação
 
@@ -16,25 +17,23 @@ Siga as instruções abaixo para executar o projeto em sua máquina:
 
    ```bash
    git clone git@github.com:BrenoVascon/Teste-Escribo.git
- ```
-Navegue até o diretório do projeto:
 
-```bash
-cd Teste-Escribo
-```
+2. Navegue até o diretório do projeto:
+    ```bash
+   cd Teste-Escribo
 
-Instale as dependências:
-
-npm install
-Execução
-Inicie o servidor de desenvolvimento:
-
-bash
-npm start
+3. Instale as dependências:
+    ```bash
+    npm install
+    
+## Execução 
+1. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm start
 
 O aplicativo React será aberto automaticamente em seu navegador no endereço http://localhost:3000/.
 
-Como Testar
+   ## Como Testar
 Para testar o somatório de números, siga os passos abaixo:
 
 Abra o navegador e vá para http://localhost:3000/.
