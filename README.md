@@ -16,23 +16,22 @@ Siga as instruções abaixo para executar o projeto em sua máquina:
 
    ```bash
    git clone git@github.com:BrenoVascon/Teste-Escribo.git
-
+ ```
 Navegue até o diretório do projeto:
 
-bash
-Copy code
-cd seu-repositorio
+```bash
+cd Teste-Escribo
+```
+
 Instale as dependências:
 
-bash
-Copy code
 npm install
 Execução
 Inicie o servidor de desenvolvimento:
 
 bash
-Copy code
 npm start
+
 O aplicativo React será aberto automaticamente em seu navegador no endereço http://localhost:3000/.
 
 Como Testar
