@@ -9,7 +9,7 @@ Siga as instruções abaixo para executar o projeto em sua máquina:
 ### Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado
-- [VsCode](https://code.visualstudio.com/) Instalado
+- [VsCode](https://code.visualstudio.com/) 
 
 ### Instalação
 
